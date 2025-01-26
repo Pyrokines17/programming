@@ -1,1 +1,1 @@
-# Repository for programming labs
+# Repository for "Programming" labs
